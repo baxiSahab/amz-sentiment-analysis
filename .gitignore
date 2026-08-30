@@ -1,0 +1,9 @@
+# Allowlist: ignore everything, then re-include only what we want tracked.
+*
+
+!.gitignore
+!fasttext_model.ipynb
+!baseline_full.ipynb
+
+# Never track these, even if re-included above.
+.ipynb_checkpoints/
