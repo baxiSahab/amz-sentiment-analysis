@@ -4,6 +4,7 @@
 !.gitignore
 !fasttext_model.ipynb
 !baseline_full.ipynb
+!exploration_and_experiments.ipynb
 !requirements.txt
 
 # Never track these, even if re-included above.
