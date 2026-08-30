@@ -5,6 +5,7 @@
 !fasttext_model.ipynb
 !baseline_full.ipynb
 !exploration_and_experiments.ipynb
+!readme.md
 !requirements.txt
 
 # Never track these, even if re-included above.
